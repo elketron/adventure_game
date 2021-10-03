@@ -9,3 +9,5 @@ class Options(Buffer):
         self.Title = " Options "
 
         self.set_border()
+        self.title(self.Title)
+
